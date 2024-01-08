@@ -22,6 +22,6 @@ jobs:
     - name: Build the docker image
       uses: docker/build-push-action@v5
       with:
-        context: ./src
+        context: .
         push: true
         tags: viksun02/simple-sort:latest
