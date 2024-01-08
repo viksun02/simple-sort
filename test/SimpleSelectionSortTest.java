@@ -1,6 +1,7 @@
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayNameGenerator;
 import org.junit.jupiter.api.Test;
+import sort.SimpleSelectionSort;
 
 import java.util.ArrayList;
 import java.util.List;
