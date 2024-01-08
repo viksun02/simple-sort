@@ -2,7 +2,7 @@
 name: java-sort-app-workflow
 on: 
   push : 
-    branches: [ "main" ]
+    branches: [ "workflow-branch" ]
 
 jobs:
   build-and-push:
